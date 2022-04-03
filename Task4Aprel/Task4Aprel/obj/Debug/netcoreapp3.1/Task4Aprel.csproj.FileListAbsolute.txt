@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\bin\Debug\netcoreapp3.1\Task4Aprel.exe
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\bin\Debug\netcoreapp3.1\Task4Aprel.deps.json
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\bin\Debug\netcoreapp3.1\Task4Aprel.runtimeconfig.json
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\bin\Debug\netcoreapp3.1\Task4Aprel.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\bin\Debug\netcoreapp3.1\Task4Aprel.dll
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\bin\Debug\netcoreapp3.1\Task4Aprel.pdb
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\obj\Debug\netcoreapp3.1\Task4Aprel.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\obj\Debug\netcoreapp3.1\Task4Aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\obj\Debug\netcoreapp3.1\Task4Aprel.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\obj\Debug\netcoreapp3.1\Task4Aprel.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\obj\Debug\netcoreapp3.1\Task4Aprel.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\obj\Debug\netcoreapp3.1\Task4Aprel.dll
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\obj\Debug\netcoreapp3.1\Task4Aprel.pdb
+C:\Users\Hp\source\repos\Task4Aprel\Task4Aprel\obj\Debug\netcoreapp3.1\Task4Aprel.genruntimeconfig.cache
